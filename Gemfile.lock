@@ -61,6 +61,9 @@ GEM
     ruboty-slack (0.1.12)
       ruboty (>= 1.0.4)
       xrc (>= 0.1.8)
+    ruboty-sudden_death (1.0.1)
+      ruboty
+      sudden_death
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
@@ -70,6 +73,7 @@ GEM
     ruboty-twada (2.0.0)
       ruboty
     slop (4.2.1)
+    sudden_death (0.0.3)
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
@@ -88,6 +92,7 @@ DEPENDENCIES
   ruboty-redis
   ruboty-ruby
   ruboty-slack
+  ruboty-sudden_death
   ruboty-talk
   ruboty-train_delay
   ruboty-twada
