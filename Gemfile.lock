@@ -43,6 +43,8 @@ GEM
       slop
     ruboty-alias (0.0.8)
       ruboty (>= 1.1.1)
+    ruboty-aun (1.0.0)
+      ruboty
     ruboty-cron (1.1.0)
       activesupport
       chrono
@@ -90,6 +92,7 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruboty-alias
+  ruboty-aun
   ruboty-cron
   ruboty-echo
   ruboty-gengo

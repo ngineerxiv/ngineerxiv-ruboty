@@ -3,6 +3,7 @@ ruby '2.2.3'
 
 gem 'rake'
 gem 'ruboty-alias'
+gem 'ruboty-aun'
 gem 'ruboty-cron'
 gem 'ruboty-echo'
 gem 'ruboty-google_image'
