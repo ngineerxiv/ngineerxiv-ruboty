@@ -75,6 +75,7 @@ GEM
       ruboty
     ruboty-twada (2.0.0)
       ruboty
+    ruboty-yasy (1.0.0)
     slop (4.2.1)
     sudden_death (0.0.3)
     thread_safe (0.3.5)
@@ -100,6 +101,7 @@ DEPENDENCIES
   ruboty-talk
   ruboty-train_delay
   ruboty-twada
+  ruboty-yasy
 
 BUNDLED WITH
    1.10.6
