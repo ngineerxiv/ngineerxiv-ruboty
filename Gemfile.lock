@@ -49,6 +49,10 @@ GEM
       activesupport
       chrono
       ruboty (>= 0.2.0)
+    ruboty-deadline (1.0.2)
+      activesupport
+      ruboty
+      tokiyomi
     ruboty-echo (0.1.0)
       ruboty
     ruboty-gengo (0.0.1)
@@ -81,6 +85,8 @@ GEM
     slop (4.2.1)
     sudden_death (0.0.3)
     thread_safe (0.3.5)
+    tokiyomi (0.1.1)
+      activesupport
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     xrc (0.1.8)
@@ -94,6 +100,7 @@ DEPENDENCIES
   ruboty-alias
   ruboty-aun
   ruboty-cron
+  ruboty-deadline
   ruboty-echo
   ruboty-gengo
   ruboty-google_image
