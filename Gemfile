@@ -1,15 +1,15 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 ruby '2.2.3'
 
-gem "rake"
-gem "ruboty-alias"
-gem "ruboty-cron"
+gem 'rake'
+gem 'ruboty-alias'
+gem 'ruboty-cron'
 gem 'ruboty-echo'
-gem "ruboty-google_image"
-gem "ruboty-redis"
-gem "ruboty-ruby"
-gem "ruboty-slack"
-gem "ruboty-sudden_death"
-gem "ruboty-talk"
-gem "ruboty-train_delay"
-gem "ruboty-twada"
+gem 'ruboty-google_image'
+gem 'ruboty-redis'
+gem 'ruboty-ruby'
+gem 'ruboty-slack'
+gem 'ruboty-sudden_death'
+gem 'ruboty-talk'
+gem 'ruboty-train_delay'
+gem 'ruboty-twada'
