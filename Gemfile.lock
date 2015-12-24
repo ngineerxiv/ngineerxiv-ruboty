@@ -61,6 +61,8 @@ GEM
     ruboty-talk (0.0.5)
       docomoru (>= 0.0.3)
       ruboty (>= 1.1.0)
+    ruboty-twada (2.0.0)
+      ruboty
     slop (4.2.1)
     thread_safe (0.3.5)
     tzinfo (1.2.2)
@@ -81,6 +83,7 @@ DEPENDENCIES
   ruboty-ruby
   ruboty-slack
   ruboty-talk
+  ruboty-twada
 
 BUNDLED WITH
    1.10.6
