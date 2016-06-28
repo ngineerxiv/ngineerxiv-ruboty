@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/makimoto/ruboty-irasutoya.git
+  revision: d47df26b179d51a857c0c59361ffa1adb3f55240
+  specs:
+    ruboty-irasutoya (0.1.0)
+      nokogiri
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -24,8 +32,13 @@ GEM
     i18n (0.7.0)
     json (1.8.3)
     mem (0.1.5)
+    mini_portile2 (2.1.0)
     minitest (5.8.3)
     multipart-post (2.0.0)
+    nokogiri (1.6.8)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
+    pkg-config (1.1.7)
     rack (1.6.4)
     rake (10.4.2)
     redis (3.2.2)
@@ -77,6 +90,7 @@ DEPENDENCIES
   ruboty-cron
   ruboty-echo
   ruboty-google_image
+  ruboty-irasutoya!
   ruboty-redis
   ruboty-ruby
   ruboty-slack

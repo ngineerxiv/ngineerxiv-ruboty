@@ -9,4 +9,5 @@ gem "ruboty-redis"
 gem "ruboty-ruby"
 gem "ruboty-slack"
 gem "ruboty-talk"
-gem "ruboty-irasutoya"
+gem "ruboty-irasutoya", github: "makimoto/ruboty-irasutoya"
+
